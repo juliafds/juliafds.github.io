@@ -35,9 +35,9 @@
         font-size:27px;
         font-align: center;
       }
-      img.redonda {
-        width: 200px;
-        height: 200px;
+      .redonda {
+        width:225px;
+        height:245px;
         background-color: #000;
         color: #FFF;
         border-radius: 50%;
