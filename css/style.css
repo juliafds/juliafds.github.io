@@ -35,10 +35,13 @@
         font-size:27px;
         font-align: center;
       }
-      .img{
-        width:225; 
-        height:245;
-      }
+      img.redonda {
+        width: 200px;
+        height: 200px;
+        background-color: #000;
+        color: #FFF;
+        border-radius: 50%;
+           }
       ul{
         color:#cd853f;
         font-size:27px;
