@@ -26,7 +26,7 @@
         font-size:35px;
       }
       table, td, tr {
-        border: 2px solid black;
+        border: 2px solid white;
         background:black;
         color:white;
         float:center;
