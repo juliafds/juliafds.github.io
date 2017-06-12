@@ -25,6 +25,10 @@
       background-color: #474e5d; /* White */
       color: #ffffff;
   }
+    .container-fluid {
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
 
      nav {
   color: black;
