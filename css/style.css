@@ -25,16 +25,8 @@
         color:#696969;
         font-size:35px;
       }
-      table, td, tr {
-        border: 2px solid white;
-        background:black;
-        color:black;
-        float:center;
-        width: 600px;
-        height: 50px;
-        font-size:27px;
-        font-align: center;
-      }
+    
+    
       .redonda {
         width:225px;
         height:245px;
