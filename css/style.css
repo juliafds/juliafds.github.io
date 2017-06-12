@@ -17,14 +17,15 @@
        background-color: #1abc9c; /* Green */
         color: #ffffff;
     }
- .bg-2 { 
-    background-color: #ffffff; 
-    color: #ffffff; 
+    .bg-2 { 
+      background-color: #ffffff; /* Dark Blue */
+      color: #555555;
   }
   .bg-3 { 
-      background-color: black; 
-      color:white;
+      background-color: #474e5d; /* White */
+      color: #ffffff;
   }
+
      nav {
   color: black;
   background-color:white;
