@@ -27,16 +27,9 @@
       }
     
     
-      .redonda {
-        width:225px;
-        height:245px;
-        background-color: #000;
-        color: #FFF;
-        border-radius: 42%;
-           }
       ul{
         color:#cd853f;
-        font-size:27px;
+        font-size:20px;
       }
       h2{
         text-align:center;
@@ -45,7 +38,7 @@
       }
       p{
       font-size:32px;
-      color:#8b4513;    
+      color:#2f4f4f;    
         
       }
 
