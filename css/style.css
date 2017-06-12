@@ -11,6 +11,20 @@
         text-align:center;
         
       }
+
+
+.  bg-1 { 
+       background-color: #1abc9c; /* Green */
+        color: #ffffff;
+    }
+ .bg-2 { 
+    background-color: #ffffff; 
+    color: #ffffff; 
+  }
+  .bg-3 { 
+      background-color: #474e5d; 
+      color: #555555;
+  }
      nav {
   color: white;
   background-color:#cd853f;
@@ -30,12 +44,12 @@
       ul{
         color:black;
         font-size:20px;
+        list-style-type:none
       }
       h2{
         text-align:center;
         font-size:35px;
         color:#2f4f4f;
-        background-color: black;
       }
       p{
       font-size:32px;
@@ -44,8 +58,8 @@
       }
 
       footer{
-        color:white;
-        background-color:black;
+        color:black;
+        background-color:white;
         font-size:20px;
         height:60px; 
 
