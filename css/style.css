@@ -13,18 +13,7 @@
       }
 
 
-  .bg-1 { 
-       background-color: #00ffff; /* Green */
-        color: #ffffff;
-    }
-    .bg-2 { 
-      background-color: #ffffff; /* Dark Blue */
-      color: #555555;
-  }
-  .bg-3 { 
-      background-color: #474e5d; /* White */
-      color: #ffffff;
-  }
+
     .container-fluid {
     padding-top: 40px;
     padding-bottom: 40px;
@@ -63,12 +52,5 @@
         
       }
 
-      footer{
-        color:white;
-        background-color:black;
-        font-size:13px;
-        height:45px; 
-          
-
-      }
+    
 
